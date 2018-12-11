@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "379251088084",
+    "firebase_url": "https://locations-222018.firebaseio.com",
+    "project_id": "locations-222018",
+    "storage_bucket": "locations-222018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379251088084:android:4ecac1d66a2a4cf1",
+        "android_client_info": {
+          "package_name": "com.example.kishan.locations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379251088084-2dvr4h320d3636ava6v6noamfcort8p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJ22UDV5XaK0BJE9XJ7q_vdgqw6I-sXA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
